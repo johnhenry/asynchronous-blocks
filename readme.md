@@ -158,7 +158,7 @@ console.log(0);
 
 #### <a name="proposed-solution:other-operators:do"></a>do
 
-See [Do-Expression Proposal](http://wiki.ecmascript.org/doku.php?id=strawman:do_expressions)
+See [Do-Expression Proposal](https://github.com/tc39/proposal-do-expressions)
 
 ```javascript
 const result = do async{
